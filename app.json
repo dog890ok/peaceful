@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/dog890ok/peaceful",
+  "repository": "https://github.com/dog890ok/peaceful",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
